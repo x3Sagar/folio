@@ -3,7 +3,29 @@
 
 	'use strict';
 
+	var projectsArray = [
+		{
+			"id": "projectTykOperator",
+			"url": "https://github.com/TykTechnologies/tyk-operator"
+		},
+		{
+			"id": "projectCloudixia",
+			"url": "https://elated-snyder-0ec7d1.netlify.app/#/"
+		},
+		{
+			"id": "projectFitDrinks",
+			"url": "https://github.com/sedkis/fitdrinks"
+		}
+	]
 
+	projectsArray.forEach(element => {
+		var projectObject = document.getElementById(element.id);
+		projectObject.style.cursor = 'pointer';
+		projectObject.onclick = function() {
+			window.open( 
+				element.url, "_blank"); 
+		}
+	});
 
 	var isMobile = {
 		Android: function () {
