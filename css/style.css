@@ -212,7 +212,7 @@ figure {
         #colorlib-aside .colorlib-footer ul li a {
           /* color: rgba(255, 255, 255, 0.3); */
           font-size: 32px;
-          color: #ec5453;
+          color: #2c98f0;
           padding: 4px; }
           #colorlib-aside .colorlib-footer ul li a:hover, #colorlib-aside .colorlib-footer ul li a:active, #colorlib-aside .colorlib-footer ul li a:focus {
             text-decoration: none;
@@ -1004,7 +1004,13 @@ body.offcanvas {
       -webkit-transform: translate3d(0, -15px, 0);
       transform: translate3d(0, -15px, 0);
       margin-bottom: 15px; }
-      .project .desc h3 a {
+
+    .project .desc h4  {
+      font-size: 11px;
+      padding-top: 15px;
+      font-style: italic;
+    }
+      .project .desc h3 a, .project .desc h4 a {
         color: #fff; }
     .project .desc span {
       display: block;
