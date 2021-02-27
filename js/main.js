@@ -10,7 +10,7 @@
 		},
 		{
 			"id": "projectCloudixia",
-			"url": "https://elated-snyder-0ec7d1.netlify.app/#/"
+			"url": "https://ajtima.com"
 		},
 		{
 			"id": "projectFitDrinks",
