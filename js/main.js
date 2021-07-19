@@ -13,8 +13,12 @@
 			"url": "https://ajtima.com"
 		},
 		{
-			"id": "projectFitDrinks",
-			"url": "https://github.com/sedkis/fitdrinks"
+			"id": "projectServ",
+			"url": "https://www.getserv.io"
+		},
+		{
+			"id": "projectSedkodes",
+			"url": "https://www.youtube.com/channel/UCXR-k7wwwhdovpXXkRitJ_g"
 		}
 	]
 
