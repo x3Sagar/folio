@@ -1,6 +1,6 @@
 # portfolio-v2
 
-Personal website, you can visit it at [https://www.x3sagar.github.io/folio](https://www.x3sagar.github.io/folio/).  
+Personal website, you can visit it at [https://x3sagar.github.io/folio/](https://x3sagar.github.io/folio/).  
 
 It's just static JS/CSS, hosted for free using Github Pages.
 
