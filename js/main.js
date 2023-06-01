@@ -4,10 +4,10 @@
 	'use strict';
 
 	var projectsArray = [
-		{
+		/*{
 			"id": "projectTykOperator",
 			"url": "https://github.com/TykTechnologies/tyk-operator"
-		},
+		}, */
 		{
 			"id": "projectCloudixia",
 			"url": "https://ajtima.com"
